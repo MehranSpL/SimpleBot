@@ -1,4 +1,4 @@
-### A Very Nice Nuker
+### A Simple Bot For Learn Coding And Making Your Own Bot
 
 # How to install
 
